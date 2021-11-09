@@ -8,7 +8,7 @@
 <h2>Comandos</h2>
 <pre><code>pkg install python
 pip install requests
-git clone https://github.com/Hidden-parker/SuplantMail
+git clone https://github.com/PiterIvano/SuplantMail
 cd SuplantMail
 python Mail.py
 </code></pre>
