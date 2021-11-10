@@ -13,3 +13,8 @@ cd SuplantMail
 python Mail.py
 </code></pre>
 
+<h3>Windows 10</h3>
+![image](https://user-images.githubusercontent.com/68443246/141063523-139766dd-03b0-4557-9ac1-8e6a2a92db59.png)
+
+Descargar el archivo exe y listo...
+
